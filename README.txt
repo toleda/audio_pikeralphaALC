@@ -13,7 +13,7 @@ Requirements
   2. OS X
 	1. 10.10 or newer
 	2. 10.9 or newer
-  3. Native AppleHDA.kext  (If not installed, run Yosemite installer)
+  3. Native AppleHDA.kext  (If not installed, run Yosemite/Mavericks installer)
   4. Supported Realtek on board audio codec
   5. Audio ID Injection, see https://github.com/toleda/audio_ALCinjectiom
 
