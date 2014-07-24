@@ -1,9 +1,9 @@
 audio_pikeralphaALC
 ============
 Piker-Aplha - http://pikeralpha.wordpress.com/
-Realtek ALC Audio - Native AppleHDA.kext/No Patching/Persistant
+Realtek ALC Audio - Native AppleHDA.kext/AppleHDA8Series/No Patching/Persistant
 
-The Realtek ALC AppleHDA Support kext, installed with the native AppleHDA.kext, enables full onboard, HDMI and DP audio (Note 1).  The ALC AppleHDA Support kext provides audio codec binary patch and config data and layouts and platforms injection.
+The Realtek ALC AppleHDA8Series kext, installed with the native AppleHDA.kext, enables full onboard, HDMI and DP audio (Note 1).  The ALC AppleHDA Support kext provides audio codec binary patch and config data and layouts and platforms injection.
 
 Update: 10.10: Yosemite Initial Realtek ALC support (v3.0 and newer)
 
@@ -35,12 +35,12 @@ Required Information (Select one from each category)
   4. Mavericks version
 	1. 10.9 (all versions)
 
-pikeralphaALC AppleHDA Support Kext Method
-  1. Realtek ALC AppleHDA Support kext with patched binaries
+pikeralphaALC AppleHDA8Series Kext Method
+  1. Realtek ALC AppleHDA8Series kext with patched binaries
 	1. Native AppleHDA.kext untouched
   2. AppleHDA8Series - ConfigData, layouts, Platforms and HDA binary patch
 
-pikeralphaALC AppleHDA Support Kext - Installation
+pikeralphaALC AppleHDA8Series Kext - Installation
   1. AppleHDA Support kext (Use Terminal/Terminal output below)
 	1. https://github.com/Piker-Alpha/AppleHDA8Series.sh 
 	2. Download Zip
@@ -56,7 +56,7 @@ pikeralphaALC AppleHDA Support Kext - Installation
 	8. Install S/L/E
 	9. Reboot
   3. Restart
-  4. Verify ALC AppleHDA Support kext installed
+  4. Verify ALC AppleHDA8Series kext installed
 	1. S/L/E/AppleHDA885
 	2. S/L/E/AppleHDA887 
 	3. S/L/E/AppleHDA888
