@@ -53,9 +53,8 @@ pikeralphaALC AppleHDA Support Kext - Installation
 	5. Password
 	6. Codec
 	7. Layout
-	8. Version
-	9. Install S/L/E
-	10. Reboot
+	8. Install S/L/E
+	9. Reboot
   3. Restart
   4. Verify ALC AppleHDA Support kext installed
 	1. S/L/E/AppleHDA885
