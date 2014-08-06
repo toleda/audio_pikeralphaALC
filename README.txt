@@ -30,10 +30,6 @@ Required Information (Select one from each category)
 	1. 885, 887, 888, 889, 892, 898, 1150
 	2. 887, 888, 889, 892, 898, 1150
 	3. 887, 888, 889, 892, 898
-  3. Yosemite version
-	1. 10.10
-  4. Mavericks version
-	1. 10.9 (all versions)
 
 pikeralphaALC AppleHDA8Series Kext Method
   1. Realtek ALC AppleHDA8Series kext with patched binaries
@@ -55,8 +51,8 @@ pikeralphaALC AppleHDA8Series Kext - Installation
 	7. Layout
 	8. Install S/L/E
 	9. Reboot
-  3. Restart
-  4. Verify ALC AppleHDA8Series kext installed
+  2. Restart
+  3. Verify ALC AppleHDA8Series kext installed
 	1. S/L/E/AppleHDA885
 	2. S/L/E/AppleHDA887 
 	3. S/L/E/AppleHDA888
@@ -64,7 +60,7 @@ pikeralphaALC AppleHDA8Series Kext - Installation
 	5. S/L/E/AppleHDA892
 	6. S/L/E/AppleHDA898
 	7. S/L/E/AppleHDA1150
-  5. Verify ALC onboard audio
+  4. Verify ALC onboard audio
 	1. System Preferences/Sound/Output/select audio device
 
 Notes
