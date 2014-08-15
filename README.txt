@@ -5,6 +5,7 @@ Realtek ALC Audio - Native AppleHDA.kext/AppleHDA8Series/No Patching/Persistant
 
 The Realtek ALC AppleHDA8Series kext, installed with the native AppleHDA.kext, enables full onboard, HDMI and DP audio (Note 1).  The ALC AppleHDA Support kext provides audio codec binary patch and config data and layouts and platforms injection.
 
+Update: v2.1, 9 Series/EAPD added to 887, 892, 898, 1150, credit: kidalive
 Update: 10.10: Yosemite Initial Realtek ALC support (v3.0 and newer)
 
 Requirements
